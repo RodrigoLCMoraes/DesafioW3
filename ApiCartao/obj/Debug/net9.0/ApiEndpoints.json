@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ApiCartao.Controllers.CartaoController",
+    "Method": "Ativar",
+    "RelativePath": "api/Cartao/Ativar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ApiCartao.Models.Ativa\u00E7\u00E3oModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiCartao.Controllers.CartaoController",
+    "Method": "BloqueioLote",
+    "RelativePath": "api/Cartao/BloqueioLote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiCartao.Controllers.CartaoController",
+    "Method": "CriarCartao",
+    "RelativePath": "api/Cartao/Solicitar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "solicitacao",
+        "Type": "ApiCartao.Models.CartaoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

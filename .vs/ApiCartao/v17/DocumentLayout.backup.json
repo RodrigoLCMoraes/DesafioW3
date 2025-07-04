@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\wwwroot\\erros\\card20250704001.err||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\wwwroot\\erros\\card20250704001.err||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\controllers\\cartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\controllers\\cartaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\models\\ativa\u00E7\u00E3omodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\models\\ativa\u00E7\u00E3omodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\models\\cartaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\models\\cartaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\settings\\cartaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\settings\\cartaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\apicartao.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\apicartao.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\helpers\\cpfvalidar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\helpers\\cpfvalidar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|c:\\users\\rodrigolcmoraes\\onedrive\\documentos\\testes_programa\u00E7\u00E3o\\csharp\\apicartao\\apicartao\\helpers\\senhahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE88106-D0B4-440E-8DEC-DB0E10D3814C}|ApiCartao\\ApiCartao.csproj|solutionrelative:apicartao\\helpers\\senhahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CARD20250704001.ERR",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\wwwroot\\erros\\CARD20250704001.ERR",
+              "RelativeDocumentMoniker": "ApiCartao\\wwwroot\\erros\\CARD20250704001.ERR",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\wwwroot\\erros\\CARD20250704001.ERR",
+              "RelativeToolTip": "ApiCartao\\wwwroot\\erros\\CARD20250704001.ERR",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-04T19:56:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartaoModel.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Models\\CartaoModel.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Models\\CartaoModel.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Models\\CartaoModel.cs",
+              "RelativeToolTip": "ApiCartao\\Models\\CartaoModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:01:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiCartao\\appsettings.json",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\appsettings.json",
+              "RelativeToolTip": "ApiCartao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T20:31:55.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Program.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Program.cs",
+              "RelativeToolTip": "ApiCartao\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:15:55.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartaoController.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Controllers\\CartaoController.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Controllers\\CartaoController.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Controllers\\CartaoController.cs",
+              "RelativeToolTip": "ApiCartao\\Controllers\\CartaoController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAEwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:36:26.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartaoService.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Settings\\CartaoService.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Settings\\CartaoService.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Settings\\CartaoService.cs",
+              "RelativeToolTip": "ApiCartao\\Settings\\CartaoService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:02:07.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ativa\u00E7\u00E3oModel.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Models\\Ativa\u00E7\u00E3oModel.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Models\\Ativa\u00E7\u00E3oModel.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Models\\Ativa\u00E7\u00E3oModel.cs",
+              "RelativeToolTip": "ApiCartao\\Models\\Ativa\u00E7\u00E3oModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:20:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiCartao.http",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\ApiCartao.http",
+              "RelativeDocumentMoniker": "ApiCartao\\ApiCartao.http",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\ApiCartao.http",
+              "RelativeToolTip": "ApiCartao\\ApiCartao.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-01T20:15:20.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiCartao\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiCartao\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T22:13:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Settings\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Settings\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Settings\\MongoDBSettings.cs",
+              "RelativeToolTip": "ApiCartao\\Settings\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:01:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CpfValidar.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Helpers\\CpfValidar.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Helpers\\CpfValidar.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Helpers\\CpfValidar.cs",
+              "RelativeToolTip": "ApiCartao\\Helpers\\CpfValidar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:18:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SenhaHash.cs",
+              "DocumentMoniker": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Helpers\\SenhaHash.cs",
+              "RelativeDocumentMoniker": "ApiCartao\\Helpers\\SenhaHash.cs",
+              "ToolTip": "C:\\Users\\RodrigoLCMoraes\\OneDrive\\Documentos\\Testes_Programa\u00E7\u00E3o\\CSharp\\ApiCartao\\ApiCartao\\Helpers\\SenhaHash.cs",
+              "RelativeToolTip": "ApiCartao\\Helpers\\SenhaHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:43:49.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

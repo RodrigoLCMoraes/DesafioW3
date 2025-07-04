@@ -1,0 +1,6 @@
+@ApiCartao_HostAddress = http://localhost:5158
+
+GET {{ApiCartao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
