@@ -3,7 +3,7 @@ API - Solicitação de cartão:
 - O cartão é recusado pelos seguintes motivos: Caso o usuário seja menor de idade, use CPF inválido ou crie uma senha menor de 6 caracteres ou que contenha repetições;
 - Caso a renda mensal do usuário seja de 7000 pra cima, ele recebe um cartão com a bandeira VISA com um limite da sua renda multiplicado por 0.30m. A partir de 5000, cartão com bandeira MASTERCARD com o mesmo calculo para o limite. Com renda a partir de 1500, bandeira ELO.
 - Com todas as informações sendo válidas, uma numeração para o cartão é gerada e a senha que o usuário cadastrou é gerada em hash.
-- Status final: SOLICITADO;D
+- Status final: SOLICITADO;
 
 API - Ativação de cartão:
 - Dados necessários: Número do cartão, CPF e senha cadastrada;
